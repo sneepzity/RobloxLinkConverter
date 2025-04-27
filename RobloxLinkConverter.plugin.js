@@ -3,8 +3,8 @@
  * @author beezity and Claude 3.7
  * @description Converts Roblox private server links to a consistent format
  * @version 0.0.1
- * @website https://github.com/sleepzity/RobloxLinkConverter
- * @source https://github.com/sleepzity/RobloxLinkConverter
+ * @website https://github.com/sneepzity/RobloxLinkConverter
+ * @source https://github.com/sneepzity/RobloxLinkConverter
  */
 
 class RobloxLinkConverter {
